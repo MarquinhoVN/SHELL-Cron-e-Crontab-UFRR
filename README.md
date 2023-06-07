@@ -6,7 +6,7 @@ Comando para abrir o arquivo crontab em NANO.
 ![image](https://github.com/MarquinhoVN/SHELL-Cron-e-Crontab-UFRR/assets/110234026/bdcc83e1-6ea8-40f6-a682-d53cb41938a7)
 
 Após Abrir o Arquivo do crontab, a programação já pode ser realizada para rodar um script a cada 5 minutos:
-![image](https://github.com/MarquinhoVN/SHELL-Cron-e-Crontab-UFRR/assets/110234026/08f2b04e-d4c9-4e11-9843-ac7578b1676a)
+![image](https://github.com/MarquinhoVN/SHELL-Cron-e-Crontab-UFRR/assets/110234026/68a37141-43d9-49c6-b4dd-d68ab1ae187b)
 
 Código presente no arquivo: Hello.sh.
 Imprime "Hello World" e a data e horário atual.
