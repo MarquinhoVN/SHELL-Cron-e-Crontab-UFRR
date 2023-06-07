@@ -1,1 +1,0 @@
-*/5 * * * * sh Desktop/hello.sh > Desktop/return.txt
