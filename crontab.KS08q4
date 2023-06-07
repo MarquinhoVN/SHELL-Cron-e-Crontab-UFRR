@@ -1,1 +1,1 @@
-*/5 * * * * Desktop/sh hello.sh > Desktop/return.txt
+*/5 * * * * sh Desktop/hello.sh > Desktop/return.txt
